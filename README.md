@@ -126,9 +126,6 @@ The analysis provides valuable insights into the dataset through statistical sum
 
 **Muhammad Ali**
 
-* GitHub: [Your GitHub Profile]
-* LinkedIn: [Your LinkedIn Profile]
-
 ---
 
 ## License
